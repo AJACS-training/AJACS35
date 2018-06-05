@@ -29,11 +29,12 @@
 <li><a href="http://support.google.com/fusiontables/answer/2571232/" rel="nofollow">Google Fusion Tables公式ページ</a></li></ul>
 
 <h3 id="content_1_3"><a id="y5066ce3" href="http://MotDB.DBCLS.jp/?AJACS35%2Fso#y5066ce3" title="y5066ce3">_</a> 【実習1】Google Fusion Tablesを使って、Web上から癌の発生率に関するオープンデータを読み込み、地図上にマッピングしてみる  </h3>
-<ol class="list1" style="padding-left:16px;margin-left:16px"><li>1. Google Fusion Tablesのオープンデータサーチに”cancer statistics country”のキーワードで検索してデータを取得</li>
-<li>2. row dataの設定</li>
-<li>3. 地図へのマッピング</li>
-<li>4. ピンの設定</li>
-<li>5. 出版（共有）</li></ol>
+<ol class="list1" style="padding-left:16px;margin-left:16px">
+  <li>Google Fusion Tablesのオープンデータサーチに”cancer statistics country”のキーワードで検索してデータを取得</li>
+<li>row dataの設定</li>
+<li>地図へのマッピング</li>
+<li>ピンの設定</li>
+<li>出版（共有）</li></ol>
 
 <h3 id="content_1_4"><a id="y5066ce3" href="http://MotDB.DBCLS.jp/?AJACS35%2Fso#y5066ce3" title="y5066ce3">_</a> 【実習2】CSV形式のデータを読み込んで、酵母のタンパク質相互作用のデータを表示してみる  </h3>
 <ul class="list1" style="padding-left:16px;margin-left:16px"><li>ファイルをダウンロード→
@@ -41,10 +42,10 @@
 [galFilterd_edited.csv](galFilterd_edited.csv)
   
   </li></ul>
-<ol class="list1" style="padding-left:16px;margin-left:16px"><li>1. galFilterd_edited.csvデータの読み込み</li>
-<li>2. chartの追加</li>
-<li>3. グラフ表示と設定</li>
-<li>4. 出版（共有）</li></ol>
+<ol class="list1" style="padding-left:16px;margin-left:16px"><li>galFilterd_edited.csvデータの読み込み</li>
+<li>chartの追加</li>
+<li>グラフ表示と設定</li>
+<li>出版（共有）</li></ol>
 
 <h3 id="content_1_5"><a id="za7a17a1" href="http://MotDB.DBCLS.jp/?AJACS35%2Fso#za7a17a1" title="za7a17a1">_</a> Cytoscape  </h3>
 <ul class="list1" style="padding-left:16px;margin-left:16px"><li>Cytoscapeは、グラフ（ネットワーク）の可視化と解析のためのオープンソース・プラットフォームです
@@ -81,7 +82,10 @@
 <li><a href="http://www.amazon.co.jp/Visual-Display-Quantitative-Information/dp/0961392142/ref=sr_1_cc_1?ie=UTF8&amp;qid=1280960866&amp;sr=1-1-catcorr" rel="nofollow">The Visual Display of Quantitative Information</a></li></ul></li></ul>
 
 <h3 id="content_1_10"><a id="pbe0dc1d" href="http://MotDB.DBCLS.jp/?AJACS35%2Fso#pbe0dc1d" title="pbe0dc1d">_</a> 【参考2】光合成微生物の遺伝子と論文の関係を<a href="http://www.cytoscape.org/" rel="nofollow">Cytoscape</a>で俯瞰する  </h3>
-<ul class="list1" style="padding-left:16px;margin-left:16px"><li><a href="http://MotDB.DBCLS.jp/?plugin=attach&amp;pcmd=info&amp;file=cyano_genes_papers.cys&amp;refer=hiroo2012" rel="nofollow">サンプルファイル</a>
+<ul class="list1" style="padding-left:16px;margin-left:16px"><li>
+ 
+[サンプルファイル](cyano_genes_papers.cys)
+  
 <ul class="list2" style="padding-left:16px;margin-left:16px"><li>Cytoscapeで開くとレイアウトされた状態で見ることが出来ます。検索等も可能。</li></ul></li></ul>
 <hr class="full_hr" />
 <p>(for presentation 「情報可視化」 ver. 0.3  Shinobu Okamoto CC BY 2012-11-06 modified)

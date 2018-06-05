@@ -91,7 +91,8 @@
 
 <h3 id="content_1_6"><a id="wd2c65be" href="http://MotDB.DBCLS.jp/?AJACS35%2Fhono#wd2c65be" title="wd2c65be">_</a> マイクロアレイデータの準備  </h3>
 <p>サンプルデータとして、<a href="http://www.ncbi.nlm.nih.gov/geo/" rel="nofollow">NCBI GEO</a>より取得した公共の遺伝子発現データを用います。このデータは、ある実験の前後の2群間で有意に発現減少した遺伝子群のリストです。</p>
-<div class="img_margin" style="text-align:left"><a href="http://MotDB.DBCLS.jp/?plugin=attach&amp;refer=AJACS24%2Fhono&amp;openfile=110208_IDlist.txt" title="2011/02/07 15:51:39 31.6KB"><img src="image/file.png" width="20" height="20" alt="file" style="border-width:0px" />110208_IDlist.txt</a></div>
+
+[110208_IDlist.txt](110208_IDlist.txt)
 
 <p>（右クリックして「新しいタブで開く」もしくは「名前を付けてリンク先を保存」してください。）
 <br class="spacer" />

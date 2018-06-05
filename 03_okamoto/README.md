@@ -37,11 +37,9 @@
 <li>出版（共有）</li></ol>
 
 <h3 id="content_1_4"><a id="y5066ce3" href="http://MotDB.DBCLS.jp/?AJACS35%2Fso#y5066ce3" title="y5066ce3">_</a> 【実習2】CSV形式のデータを読み込んで、酵母のタンパク質相互作用のデータを表示してみる  </h3>
-<ul class="list1" style="padding-left:16px;margin-left:16px"><li>ファイルをダウンロード→
+
+- ファイルをダウンロード→[galFilterd_edited.csv](galFilterd_edited.csv)
   
-[galFilterd_edited.csv](galFilterd_edited.csv)
-  
-  </li></ul>
 <ol class="list1" style="padding-left:16px;margin-left:16px"><li>galFilterd_edited.csvデータの読み込み</li>
 <li>chartの追加</li>
 <li>グラフ表示と設定</li>
